@@ -11,3 +11,10 @@ Paste the files in the 'original' folder, then run the following command and fol
 ```shell
 sh shrink.sh
 ```
+
+Software information:
+Tested on Ubuntu 16.04 LTS bash shell.
+To check which shell you're using, run:
+```shell
+echo $SHELL
+```
