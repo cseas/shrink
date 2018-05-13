@@ -19,3 +19,4 @@ done
 # add code to display shrinked images total size
 
 # Fix issue: Code only works for .jpg images, not .jpeg
+# Fix issue: Script creates a .jpg file in the shrinked directory.
